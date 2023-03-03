@@ -23,7 +23,7 @@ DevTools is an indispensable developer's tool that you will use in checking the 
 
 ## Credits
 
-Jacob Carver - tutor
+Jacob Carver - Tutor
 
 ## License
 
