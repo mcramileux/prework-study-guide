@@ -2,21 +2,13 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+My motivation is to learn something outside my comfort zone. Scary as it seems, as I have zero knowledge in making a website this just gives me a notion that I can do this!
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Building this project gives me encouragement that I can do a different abilities that I was not used to as long as I try and follow the instructions properly.  
 
-## Table of Contents (Optional)
+Every so often, I encountered some problems with the prework. What I have learned is that there should be no hesitation when it comes on asking questions. Whether you search it to Google, watch a video in Youtube or booking a tutor to get a specific questions answered, those are big steps on learning how to code.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Accomplishing this prework opened my mind on how a webpage works! CSS, JavaScript, and HTML work hand in hand to bring into existence a simple website. With this information I have learned, there's more to come as the bootcamp starts in two weeks! It may be an overwhelming experience but I am willing to take it in.
 
 ## Installation 
 
@@ -24,11 +16,10 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use this Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from Prework alonf with a suggestion on which topic to study first.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+DevTools is an indispensable developer's tool that you will use in checking the webpage by looking through index.html file in the browser, right-click anywhere in the browser window and select "inspect". Click the Console tab to see a web console.
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
